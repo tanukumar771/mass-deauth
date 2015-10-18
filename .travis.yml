@@ -1,0 +1,4 @@
+language: C
+C:
+	- C11
+script: mass-deauth
